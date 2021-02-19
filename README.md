@@ -6,7 +6,7 @@ Blog simples feito utilizando o framework Django
 
 ![Web 1](https://github.com/PRBizarro/blogDjango/blob/main/assets/blog.jpg)
 
-![Web 2](https://github.com/PRBizarro/blogSjango/blob/main/assets/post.jpg)
+![Web 2](https://github.com/PRBizarro/blogDjango/blob/main/assets/post.jpg)
 
 
 
